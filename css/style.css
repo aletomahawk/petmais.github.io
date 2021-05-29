@@ -125,3 +125,27 @@ article ul{
 	list-style: none;
 }
 
+#banner2 img{
+	width: 1080px;
+}
+
+#conteudo2{
+	width: 1080px;
+	background: url(../img/fundo2.png) no-repeat;
+	float: left;
+	margin-top: -27px;
+
+}
+
+section#sobre_nos{
+	color: white;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#contato img{
+	width: 1080px;
+}
+
+
+
