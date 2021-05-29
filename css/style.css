@@ -143,9 +143,50 @@ section#sobre_nos{
 	text-align: center;
 }
 
-#contato img{
+#conteudo3 img{
+	width: 1080px;	
+}
+
+article#bw1 img{
+	width: 520px;
+	margin-left: 26%;
+	text-align: center;
+	
+}
+
+article#bw1{
+	margin-top: -550px;
+	
+}
+
+article#bw2 img{
+	width: 520px;
+	margin-top: 100px;
+	margin-left: 26%;
+	text-align: center;
+}
+
+footer img{
 	width: 1080px;
 }
+
+article#end img{
+	width: 450px;
+}
+
+
+article#end{
+	margin-top: -500px;
+	margin-left: 53%;
+}
+
+article#redes i{
+	color: #eb8022;
+	margin-right: 10px;
+	margin: 10px;
+	margin-top: 250px;
+}
+
 
 
 
