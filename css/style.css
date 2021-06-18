@@ -166,6 +166,10 @@ article#bw2 img{
 	text-align: center;
 }
 
+footer{
+	margin-top: -20px;
+}
+
 footer img{
 	width: 1080px;
 }
@@ -186,6 +190,45 @@ article#redes i{
 	margin: 10px;
 	margin-top: 250px;
 }
+
+#conteudo4{
+	width: 1080px;
+	background: url(../img/fundo2.png) no-repeat;
+}
+
+#conteudo4 img{
+	width: 1080px;
+}
+
+section#lab img{
+	width: 70px;	
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+section#lab1 h2{
+	margin-left: 80px;
+	margin-top: -50px;
+	text-transform: uppercase;
+	color: #2e3094;
+}
+
+section.exames{
+	margin-top: -20px;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+section#lab_lista ul{
+	font-size: 1.2em;
+}
+
+.subitem{
+	display: none;
+	font-size: 1.2em;
+}
+
+
 
 
 
