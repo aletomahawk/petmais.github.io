@@ -27,7 +27,6 @@ a:hover{
 	width: auto;
 	height: 30px;
 	margin: auto;
-/*	border: 2px solid grey; */ 
 	background: #eb8022;
 }
 
@@ -44,10 +43,10 @@ a:hover{
 
 .topo_left a{
 	color: white;
+	margin-left: -6px;
 }
 
 header{
-/*	border: 1px solid black; */
 	padding: 25px 0;
 	height: 55px;
 }
@@ -56,7 +55,6 @@ nav ul{
 	list-style: none;
 	margin: 10px;
 	float: left;
-
 }
 
 nav ul li{
@@ -65,7 +63,6 @@ nav ul li{
 
 img.nav_logo{
 	margin-top: -35px;
-/*	border: 1px solid green; */
 	margin-left: 55px;
 }
 
@@ -75,7 +72,6 @@ nav ul li a:link{
 	padding-bottom: 3px;
 	text-transform: uppercase;
 	font-size: 1.5em;
-
 }
 
 nav ul li a:hover{
@@ -85,27 +81,23 @@ nav ul li a:hover{
 #banner img{
 	width: 1080px;
 	margin-top: -27px;
-/*	border: 1px solid red; */
 }
 
 #conteudo{
 	width: 1080px;
 	background: url(../img/fundo.png) no-repeat;
 	margin-top: -27px;
-/*	border: 1px solid red; */
 	float: left;
 }
 
 article#prop{	
 	float: left;
 	margin-left: 37px;
-/*	border: 1px solid blue; */
 }
 
 article#vet{
 	float: left;
 	margin-left: 37px;
-/*	border: 1px solid red; */
 }
 
 article img{
@@ -134,8 +126,15 @@ article ul{
 	background: url(../img/fundo2.png) no-repeat;
 	float: left;
 	margin-top: -27px;
-
 }
+
+#conteudo2 p{
+	color: #000;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
 
 section#sobre_nos{
 	color: white;
@@ -147,23 +146,34 @@ section#sobre_nos{
 	width: 1080px;	
 }
 
-article#bw1 img{
-	width: 520px;
-	margin-left: 26%;
-	text-align: center;
-	
+#conteudo3{
+	background: url(../img/fundo.png) repeat-x;
+	margin-top: 30px;
 }
 
-article#bw1{
-	margin-top: -550px;
-	
+article#bw1 p{
+	margin-left: 15px;
+	font-size: 2.0em;
+	text-align: center;
+	margin-top: -50px;
 }
 
-article#bw2 img{
-	width: 520px;
-	margin-top: 100px;
-	margin-left: 26%;
-	text-align: center;
+article#bw1 a{
+	margin-left: 420px;
+	font-size: 2.0em;
+}
+
+article#bw1 i{
+	font-size: 1.5em;
+}
+
+article#bw2 a{
+	margin-left: 310px;
+	font-size: 2.0em;
+}
+
+article#bw2 i{
+	font-size: 1.5em;
 }
 
 footer{
@@ -194,7 +204,7 @@ article#redes i{
 #conteudo4{
 	width: 1080px;
 	background: url(../img/fundo2.png) repeat;
-	
+	margin-top: -10px;
 }
 
 #conteudo4 img{
@@ -228,6 +238,63 @@ section#lab_lista ul{
 	display: none;
 	font-size: 1.2em;
 }
+
+section#ultra img{
+	width: 70px;	
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+section#lab2 h2{
+	margin-left: 80px;
+	margin-top: -50px;
+	text-transform: uppercase;
+	color: #2e3094;
+}
+
+section#lab2 p{
+	margin-left: 15px;
+	font-size: 1.3em;
+}
+
+section#rx img{
+	width: 70px;	
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+section#lab3 h2{
+	margin-left: 80px;
+	margin-top: -50px;
+	text-transform: uppercase;
+	color: #2e3094;
+}
+
+section#lab3 p{
+	margin-left: 15px;
+	font-size: 1.3em;
+}
+
+section#cardio img{
+	width: 70px;	
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+section#lab4 h2{
+	margin-left: 80px;
+	margin-top: -50px;
+	text-transform: uppercase;
+	color: #2e3094;
+}
+
+section#lab4 p{
+	margin-left: 15px;
+	font-size: 1.3em;
+}
+
+
+
 
 
 
