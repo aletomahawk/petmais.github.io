@@ -293,7 +293,78 @@ section#lab4 p{
 	font-size: 1.3em;
 }
 
+.window{
+			display:none;
+			width:750px;
+			height:550px;
+			position:absolute;
+			left:0;
+			top:0;
+			background: orange;
+			z-index:9900;
+			padding:10px;
+			border-radius:10px;
+			text-align: center;
+			font-size: 1.5em;
+			justify-content: center;
+			align-items: center;
+			box-shadow: 0 0 0 5px white;
+  			border: 8px solid #988b7a;
+		}
 
+		form input{
+			padding: 5px;
+			width: 350px;
+			display: block;
+			margin-left: 150px;
+		}
+
+		form textarea{
+			width: 354px;
+			display: block;
+			margin-left: 150px;
+		}
+
+		form label{
+			margin-left: -400px;
+		}
+
+	.mensagem{
+			margin-left: -370px;
+		}
+
+	#mascara{
+			position:absolute;
+  			left:0;
+  			top:0;
+  			z-index:9000;
+  			background-color:#000;
+  			display:none;
+  			
+		}
+
+		/*.fechar{display:block; text-align:right;}*/
+
+		.fechar {
+			position: absolute;
+			font-size: 1.0em;
+			top: -30px;
+			right: -30px;
+			width: 50px;
+			height: 50px;
+			border-radius: 50%;
+			border: 4px solid white;
+			background: orange;
+			color: white;
+			font-family: "PT Mono", monospace;
+			cursor: pointer;
+			box-shadow: 0 4px 4px 0 rgba(0,0,0,.3);
+		}
+
+		form .btn{
+			width: 150px;
+			cursor: pointer;
+		}
 
 
 
