@@ -365,7 +365,27 @@ section#lab4 p{
 			width: 150px;
 			cursor: pointer;
 		}
+		
 
+		aside#instagram img{
+			width: 200px;
+			margin-left: 580px;
+			margin-top: -800px;
+		}
+
+		aside#instagram{
+			margin-top: -100px;
+		}
+
+		aside#instagram_1 img{
+			width: 200px;
+			margin-left: 850px;
+			
+		}
+
+		aside#instagram_1{
+			margin-top: -210px;
+		}
 
 
 
